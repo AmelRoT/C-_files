@@ -1,0 +1,15 @@
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\bin\Debug\net6.0\projectOne.exe
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\bin\Debug\net6.0\projectOne.deps.json
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\bin\Debug\net6.0\projectOne.runtimeconfig.json
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\bin\Debug\net6.0\projectOne.dll
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\bin\Debug\net6.0\projectOne.pdb
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.csproj.AssemblyReference.cache
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.AssemblyInfoInputs.cache
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.AssemblyInfo.cs
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.csproj.CoreCompileInputs.cache
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.dll
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\refint\projectOne.dll
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.pdb
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\projectOne.genruntimeconfig.cache
+C:\Users\Amel\Desktop\v_1\projectOne\projectOne\obj\Debug\net6.0\ref\projectOne.dll

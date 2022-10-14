@@ -1,0 +1,15 @@
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.csproj.AssemblyReference.cache
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.AssemblyInfoInputs.cache
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.AssemblyInfo.cs
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.csproj.CoreCompileInputs.cache
+C:\Users\Amel\Desktop\v_1\Project_simple\bin\Debug\net6.0\Project_simple.exe
+C:\Users\Amel\Desktop\v_1\Project_simple\bin\Debug\net6.0\Project_simple.deps.json
+C:\Users\Amel\Desktop\v_1\Project_simple\bin\Debug\net6.0\Project_simple.runtimeconfig.json
+C:\Users\Amel\Desktop\v_1\Project_simple\bin\Debug\net6.0\Project_simple.dll
+C:\Users\Amel\Desktop\v_1\Project_simple\bin\Debug\net6.0\Project_simple.pdb
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.dll
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\refint\Project_simple.dll
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.pdb
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\Project_simple.genruntimeconfig.cache
+C:\Users\Amel\Desktop\v_1\Project_simple\obj\Debug\net6.0\ref\Project_simple.dll
